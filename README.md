@@ -46,6 +46,53 @@ Collected Data from the web,used SQL for writing query, Power Query for cleaning
 ![Ola Ratings Dashboard](https://github.com/user-attachments/assets/ab1b8711-6590-4611-8a9f-7e803b2d9b7e)
 
 
+# Insights generated From Dashboard
+
+1. **Top-Performing Cities/Time Slots:**
+- Focus marketing and promotions during high-demand hours and in revenue-generating cities.
+- Example: Increase driver availability during peak hours to avoid missed revenue.
+
+2. **High-Revenue Vehicle Types:**
+- Promote and expand fleets like Prime or SUV, which may bring in higher revenue per ride.
+- Introduce loyalty benefits or premium subscriptions for frequent riders in high-yield segments.
+
+3. **User Retention by Rating & Usage:**
+- Identify highly active users and offer tailored promotions to retain them.
+- Encourage users to move to higher vehicle tiers with upselling based on past booking behavior.
+
+4. **High Cancellation Zones:**
+- Deploy quality checks or operational reviews in areas with frequent cancellations.
+- Improve ETA accuracy or driver assignment logic in these zones.
+
+5. **Common Cancellation Reasons:**
+- If drivers cancel due to distance or pricing, adjust incentive policies.
+- If users cancel due to long wait times, improve real-time location accuracy and driver dispatch logic.
+
+6. **Driver vs User Cancellation Patterns:**
+- Track cancellation trends by driver ID to flag problematic patterns.
+- Offer retraining or rewards to drivers with consistently low cancellation rates.
+
+7. **Low-Rated Drivers or Routes:**
+- Identify drivers or regions with low customer ratings.
+- Use this data for driver coaching, performance reviews, or route-level service improvements.
+
+8. **Ratings Correlation with Vehicle Type or Time:**
+- Optimize fleet and shift allocations by aligning highly rated drivers with high-value time slots.
+
+9. **Customer Feedback Loop:**
+- Use ratings and comments to prioritize app feature updates, service changes, or regional improvements.
+
+10. **Business Growth Strategies:**
+- **Dynamic Pricing Improvements:** Use peak hour and cancellation data to refine surge pricing and avoid user drop-offs.
+- **Geo-Targeted Promotions:** Push city/zone-specific discount offers based on performance data.
+- **Fleet Expansion Strategy:** Invest more in high-performing vehicle categories and reduce underused ones.
+
+
+#  Feel free to reach out for feedback, suggestions, or collaboration:
+
+📧 Email: krishnamohapatra.cs@gmail.com <br/>
+🔗 LinkedIn: https://www.linkedin.com/in/krishna-mohapatra-analyst/ <br/>
+📁 Portfolio/GitHub: https://github.com/krishna-mohapatra 
 
 
 
